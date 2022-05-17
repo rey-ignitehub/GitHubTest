@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  GitHubTest
 //
-//  Created by MC Guest on 5/16/22.
+//  Created by Reynaldo Aponte on 5/16/22.
 //
 
 import UIKit
